@@ -13,5 +13,5 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <br> <br>
-  <img align="center" height="50" width="170" src="https://upload.wikimedia.org/wikipedia/commons/9/94/MERN-logo.png">
+  <img align="center" height="50" width="180" src="https://upload.wikimedia.org/wikipedia/commons/9/94/MERN-logo.png">
  </div>
