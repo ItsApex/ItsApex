@@ -13,5 +13,5 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  ![mern-stack](https://github.com/ItsApex/ItsApex/assets/76222238/fe61adfd-3225-41c5-90eb-e1e8c0fa8457)
+  <img align="center" height="30" width="40" src="https://static.javatpoint.com/blog/images/mern-stack.png">
  </div>
