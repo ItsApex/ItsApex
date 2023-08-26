@@ -8,14 +8,15 @@
 💽 Expanding my skills to become a more effective leader  <br>
 🌱 I’m currently working On Synatx Erreur (Software Development Company) <br>
 📫 How to reach me: https://linktr.ee/_aryansingh 🔗
-<div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <br> <br>
-  <img align="center" height="50" width="180" src="https://upload.wikimedia.org/wikipedia/commons/9/94/MERN-logo.png">
- </div>
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px; margin-top: 20px;">
+  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart">
+  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter">
+  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django">
+  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js">
+  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5">
+  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3">
+  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript">
+  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/94/MERN-logo.png" alt="MERN Stack">
+</div>
 
 
