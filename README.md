@@ -1,6 +1,6 @@
 # Hello World! 👋 I'm Aryan, Founder and CEO of Syntax Erreur 🚀
 
-## About Me
+
 As the visionary behind Syntax Erreur, I'm passionate about transforming ideas into beautifully functional digital solutions. With a focus on both web and app development, I bring creativity and dedication to every project.
 
 - 💼 Leading Syntax Erreur, a prominent Software Development Company.
