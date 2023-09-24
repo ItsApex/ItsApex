@@ -19,4 +19,3 @@ As the visionary behind Syntax Erreur, I'm passionate about transforming ideas i
   <img height="80" src="https://upload.wikimedia.org/wikipedia/commons/9/94/MERN-logo.png" alt="MERN Stack">
 </div>
 
-Let's shape the future together! Feel free to connect with me to create something extraordinary.
